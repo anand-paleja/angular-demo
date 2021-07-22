@@ -1,3 +1,2 @@
-# angular-de7fkj
+Angular example app.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-de7fkj)
